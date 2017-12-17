@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="home"
+        android:icon="@drawable/ic_home_black_24dp"
+        />
+    <item
+        android:id="@+id/browse"
+        android:title="search"
+        android:icon="@drawable/ic_apps_black_24dp"
+        />
+
+    <item
+        android:id="@+id/search"
+        android:title="notification"
+        android:icon="@drawable/ic_search_black_24dp" />
+    <item
+        android:id="@+id/radios"
+        android:title="search"
+        android:icon="@drawable/ic_radio_black_24dp"
+        />
+
+    <item
+        android:id="@+id/library"
+        android:title="notification"
+        android:icon="@drawable/ic_library_music_black_24dp" />
+</menu>
